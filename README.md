@@ -1,4 +1,4 @@
-# Histogram-equalization
+# Histogram-equalization using MATLAB
 Histogram Processing
 
 1. myCDF.m: Cumulative distribution function(CDF)
